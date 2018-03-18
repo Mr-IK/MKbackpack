@@ -1,0 +1,8 @@
+name: MKbackpack
+version: 1.0.0
+main: mkbackpack.MKbackpack
+commands:
+  mbag:
+    description: MKallcommand.
+    usage: /<command>
+    default: op
